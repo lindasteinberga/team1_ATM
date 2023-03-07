@@ -2,6 +2,7 @@
 ATM description:
  1. client need to write in pin to continue;
  2. then choose language;
+
 Then Menu:
 1. check balance;
 2. withdraw money;
