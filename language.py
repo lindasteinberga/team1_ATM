@@ -10,5 +10,4 @@ def get_lang(lang):
             return "German"
 
 
-
-
+print(get_lang(1))
