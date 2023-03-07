@@ -1,2 +1,2 @@
 def withdraw(amount) :
-    return "amount"
+    return amount
