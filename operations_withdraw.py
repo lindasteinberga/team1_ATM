@@ -1,2 +1,2 @@
-def withdraw(amount) :
+def withdraw(amount):
     return amount

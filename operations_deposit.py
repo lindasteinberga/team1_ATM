@@ -1,2 +1,2 @@
-def deposit(amount) :
+def deposit(amount):
     return amount
